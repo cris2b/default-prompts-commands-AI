@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/.claude/skills/prompt-list-default/**)",
+      "Edit(/.claude/skills/prompt-make-local-default/**)",
+      "Edit(/.claude/skills/prompt-make-shared-default/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\work\\WProjects\\default-prompts-command-AI\\.claude\\skills\\create-prompt-default"
+    ]
+  }
+}

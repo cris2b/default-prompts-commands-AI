@@ -1,0 +1,6 @@
+# Prompt Default — local commands (gitignored, not committed to repo)
+# Use /make-prompt-default-shared to promote one to shared
+.claude/skills/prompt-use-default-local--*/
+
+# Claude Code local settings
+.claude/settings.local.json
